@@ -1,5 +1,5 @@
 # fuzzyjoin-australian-suburb
-This template is a solution for __Australian suburb specific__ _batch_ address correction in R.
+This experimental code is a extendable solution for __Australian suburb specific__ _batch_ address correction in R.
 
 ###### The Solution 
 Using fuzzy matching based on distance algorithms (levenshtein, jarowinkler, etc) the qgrams algorithm 
