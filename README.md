@@ -13,7 +13,7 @@ We have 3 distinct problems in this data -
 3.  and classic misspellings: incorrect letter, extra letter or missing letter (Wolooware, Ride, Waroonga)
  
 ###### Final Thoughts 
-This solution is constrained to a classic distance algorithm intentionally instead of a more computational expensive algorithm. In future, the expectation is that we could easily rely on parallel processing to scale this solution. 
+This solution is constrained to a classic distance algorithm intentionally instead of a more computational expensive algorithm. In future, the expectation is that this solution could rely on parallel processing to scale. 
 
-I'd like to assert that Australian suburbs are the worst! for misspellings but I don't have the data to back that up. Regardless, it doesn't appear to be a problem that will be eradicated soon and this process could also be extended to other types of data cleanup.
+I'd like to assert that Australian suburbs are the worst! for misspellings but I don't have the data to back that up. Regardless, it doesn't appear to be a problem that will be eradicated soon and this process could also be extended to other types of data cleanup. Therefore, it's here for public consumption and collaboration.
 
